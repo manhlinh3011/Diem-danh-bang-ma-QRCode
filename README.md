@@ -30,7 +30,12 @@ HỆ THỐNG ĐIỂM DANH SINH VIÊN </h1>
 - **🖥️ Giao diện thân thiện:** Sử dụng Tkinter cho giao diện quản lý và Flask cho xử lý điểm danh qua web.
 
 ---
+## 🏗️ HỆ THỐNG
+<p align="center">
+  <img src="images/Quy trinh diem danh.png" alt="System Architecture" width="800"/>
+</p>
 
+---
 ## 📂 Cấu trúc dự án
 
 📦 Project  
