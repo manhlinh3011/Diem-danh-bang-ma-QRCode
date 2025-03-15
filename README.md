@@ -32,7 +32,7 @@ HỆ THỐNG ĐIỂM DANH SINH VIÊN </h1>
 ---
 ## 🏗️ HỆ THỐNG
 <p align="center">
-  <img src="images/Quy trinh diem danh.png" alt="System Architecture" width="800"/>
+  <img src="images/Quytrinhdiemdanh.png" alt="System Architecture" width="800"/>
 </p>
 
 ---
